@@ -1,1 +1,1 @@
-<H2>CSP3022 Final Project Repository</H2>
+<H2>CSPB 3022: Final Project Repository</H2>
